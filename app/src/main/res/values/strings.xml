@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SISTEMA DE INVENTARIO</string>
+    <string name="title">PRODUCTO</string>
+    <string name="subtitle">ENTRADA</string>
+    <string name="title_main">SISTEMA DE INVENTARIO</string>
+</resources>
